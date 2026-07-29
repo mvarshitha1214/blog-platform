@@ -1,4 +1,4 @@
- blog-platform
+-->blog-platform
 -->Description
 
 This is a simple Blog Platform developed using HTML, CSS, and JavaScript. Users can create blog posts and view them instantly on the webpage. The project demonstrates basic content management functionality and user interaction.
